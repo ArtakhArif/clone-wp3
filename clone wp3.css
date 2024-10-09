@@ -1,0 +1,661 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  /* color: black; */
+  background-color: rgba(0, 0, 0, 0.925);
+    /* box-sizing: inherit; */
+    /* overflow-x: hidden; */
+    /* font-size: 16px; */
+}
+
+.navbar {
+ 
+  /* height: 90px; */
+  display: flex;
+  align-items: center;
+  /* padding: 2px; */
+  justify-content: space-between;
+  /* background: rgba(0, 0, 0, 0.918); */
+  /* margin-top: 2px; */
+  /* padding: 5px 5 ; */
+  border: 3px solid aqua;
+  border-radius: 20px;
+  /* width: 95%; */
+    /* height: 105px; */
+    /* margin-right: auto;
+    margin-left: auto; */
+
+
+}
+nav .logo{
+  
+ /* font-size: 100px;
+ color: black;
+font-weight: 600px;
+justify-content: space-between;
+text-align: left; */
+}
+
+nav {
+  margin-right: 200px;
+  flex: 1;
+  text-align: right;
+
+}
+
+nav ul {
+  display: inline-block;
+  list-style-type: none;
+
+
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+
+a {
+  /* align-items: center; */
+  text-decoration: none;
+  color: white;
+}
+  
+  p {
+    /* color: black; */
+  }
+  
+  /* .container { */
+    /* max-width: 1300px; */
+    /* height: 50px; */
+    /* margin: auto; */
+    /* padding-left: 25px;
+    padding-right: 25px; */
+  /* } */
+  h1 {
+    /* background-color:white ; */
+    color: white;
+    font-size: 40px;
+    margin-top: 80px;
+    /* margin-left: 40; */
+    padding-left: 30px;
+  }
+  /* ProJects */
+  h2 {
+    /* background-color:white ; */
+    color: white;
+    font-size: 50px;
+    /* margin-top: 2px; */
+    /* margin-left: 40; */
+    margin-left: 15px;
+    border-bottom: 2px solid aqua;
+    max-width: 8rem;
+    /* max-height: 20rem; */
+  }
+  /* Web Development buttons */
+  .btn {
+    display: inline-block;
+    background: lightseagreen;
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+    margin-left: 80px;
+  }
+  
+  .btnn {
+    display: inline-block;
+    /* background: lightseagreen; */
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    border: 2px solid aqua;
+    transition: background 0.5s;
+  
+  }
+  
+  .btnnn {
+    display: inline-block;
+    /* background: lightseagreen; */
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    border: 2px solid aqua;
+    transition: background 0.5s;
+  
+  }
+  
+  .btnnnn {
+    display: inline-block;
+    /* background: lightseagreen; */
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    border: 2px solid aqua;
+    transition: background 0.5s;
+  
+  }
+  /* landing page button */
+  c {
+    color: darkcyan;
+    /* text-decoration: none; */
+    /* font-size: 20px; */
+    /* font-weight: 500; */
+    border-radius: 4px;
+    /* letter-spacing: 1px; */
+    margin-left: 200px;
+    padding: 5px;
+    background-color: #fff;
+  }
+  
+  d {
+    color: darkcyan;
+    /* text-decoration: none; */
+    /* font-size: 20px; */
+    /* font-weight: 500; */
+    /* border-radius: 0px; */
+    /* letter-spacing: 1px; */
+    /* margin: -20px; */
+    padding: 5px;
+    background-color: #fff;
+  }
+  
+  e {
+    color: darkcyan;
+    /* text-decoration: none; */
+    /* font-size: 20px; */
+    /* font-weight: 500; */
+    /* border-radius: 0px; */
+    /* letter-spacing: 1px; */
+    /* margin: -20px; */
+    padding: 5px;
+    background-color: #fff;
+  }
+  
+  f {
+    color: white;
+    /* text-decoration: none; */
+    /* font-size: 20px; */
+    /* font-weight: 500; */
+    border-radius: 4px;
+    /* letter-spacing: 1px; */
+    /* margin: -20px; */
+    padding: 5px;
+    background-color: darkcyan;
+  }
+  
+  /* CARD 1 */
+  .card {
+    width: 240px;
+    height: 350px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: 130px !important;
+    margin: 13px;
+  
+  }
+  
+  p {
+    font-size: 15px;
+    padding: 20px;
+    color: white;
+    /* padding: 20px; */
+    /* margin: 20px; */
+    /* margin-top: 40px; */
+  }
+  
+  h3 {
+    font-size: 33px;
+    color: #fff;
+    font-weight: 600;
+    padding-left: 20px;
+    margin-top: 20px;
+  }
+  
+  img {
+    padding: 0px;
+  }
+  
+  /* view more */
+  lii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 60px;
+    background-color: darkgoldenrod;
+  }
+  /* card 2 */
+  .cardd {
+    width: 250px;
+    height: 430px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -362px !important;
+    margin: 260px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+   
+  /* CARD 3 */
+  .cadd {
+    width: 240px;
+    height: 410px !important;
+    background-color: darkcyan;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -330px !important;
+    margin: 10px;
+  
+  }
+  
+  
+  /* view more */
+  liii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: darkcyan;
+  }
+  /* CARD 4 */
+  .cad {
+    width: 250px;
+    height: 470px;
+    background-color: darkblue;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -340px !important;
+    margin: 260px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  
+  /* view more */
+  liiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: darkblue;
+  }
+  /* CARD 5 */
+  .cd {
+    width: 240px;
+    height: 530px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -390px !important;
+    margin: 10px;
+  
+  }
+  /* CARD 6 */
+  .cr {
+    width: 250px;
+    height: 430px;
+    background-color: rgba(255, 192, 203, 0.514);
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -400px !important;
+    margin: 261px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  
+  /* view more */
+  liiiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: rgba(255, 192, 203, 0);
+  }
+  /* CARD 7 */
+  .ca {
+    width: 240px;
+    height: 340px;
+    background-color: darkmagenta;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -290px !important;
+    margin: 10px;
+  
+  }
+  
+  /* view more */
+  liiiiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: darkmagenta;
+  }
+  /* CARD 8 */
+  .abc {
+    width: 250px;
+    height: 410px;
+    background-color: rgba(1, 1, 78, 0.37);
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -310px !important;
+    margin:260px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  
+  
+  /* view more */
+  liiiiiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: rgba(3, 3, 51, 0.363);
+  }
+  /* CARD 9 */
+  .dcb {
+    width: 240px;
+    height: 380px;
+    background-color: rgba(29, 29, 71, 0.205);
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -360px !important;
+    margin: 10px;
+  
+  }
+  
+  /* view more */
+  liiiiiiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: rgba(29, 29, 71, 0);
+  }
+  /* CARD 10 */
+  .art {
+    width: 250px;
+    height: 450px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -280px !important;
+    margin: 265px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  
+  /* CARD 11 */
+  .efg {
+    width: 240px;
+    height: 380px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -435px !important;
+    margin: 10px;
+  
+  }
+  /* CARD 12 */
+  .gff {
+    width: 250px;
+    height: 400px;
+    background-color: darkmagenta;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -210px !important;
+    margin: 265px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  /* view more */
+  liiiiiiiii {
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: darkmagenta;
+  }
+   
+  
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+   
+   
+  .footer-col2{
+    background-color: white;
+     
+  }
+   
+  
+  .container{
+      /* max-width: 11300px; */
+      margin: auto;
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  ul{
+    list-style: none;
+  }
+  .footer{
+    background-color: rgba(95, 90, 90, 0.014);
+     
+  }
+  
+  .footer-col{
+  width: 33%;
+  padding: 0  20px;
+  }
+  .footer-col h4{
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+  }
+   
+  p{ 
+     
+    color: white;
+  }
+   
+  h3{
+    color: #ffffff;
+    font-size: 20px;
+    /* margin-top: -10px; */
+    /* margin-left: 10px; */
+  }
+  
+  .footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease ;
+  }
+  .footer-bottom{
+   text-align: center;
+    
+  }
+  .footer-bottom p{
+    color: #ffffff;
+  }
+  span{
+    color: aqua;
+  }
+   i{
+      font-size: 20px;
+      color: aqua;
+    }  
+   
+  
+   
+  z{
+      color: #fff;
+     margin-left: 95px !important;
+  }
+  zz{
+      color: #fff;
+      margin-left: 330px;
+  }
+  zzz{
+      color: #fff;
+      margin-left: 360px;
+  }
+  h4{
+      
+      /* margin-left: 15px; */
+      border-bottom: 2px solid aqua;
+      max-width: 2rem;
+      margin-top: 30px;
+      margin-right: 30px;
+      /* font-size: 400px; */
+  }
+  
+  
+
+
+
+
+
+  @media only screen and (max-width: 800px) {
+
+    nav ul  {
+      
+         position: absolute;
+         top: 70px;
+         left: 0;
+         background: #333;
+         width: 100%;
+         overflow: hidden;
+         transition: max-height 0.5s;
+ 
+     }
+     nav ul li{
+      
+        display: block;
+        margin-right: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+ 
+ 
+ 
+     }
+     nav ul li a{
+      
+      color: #fff;
+     }
+     .menu-icon {
+        display: block;
+     
+        cursor: pointer;
+      }
+ 
+ }
+   
+nav .logo{
+  
+   font-size: 33px;
+  font-weight: 600px;
+  justify-content: space-between;
+  text-align: left;
+}
+
+nav {
+  /* margin-right: 200px; */
+    flex: 1;
+    
+    /* text-align: right; */
+
+}
+  
+
+/* ---------------   media query for menu  -------------- */
+.menu-icon {
+    width: 28px;
+    margin-left: 20px;
+    /* background: #000; */
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+
+   nav ul  {
+        position: absolute;
+        top: 70px;
+        left: 0;
+        background: #333;
+        width: 100%;
+        overflow: hidden;
+        transition: max-height 0.5s;
+
+    }
+    nav ul li{
+       display: block;
+       margin-right: 50px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+
+
+
+    }
+    nav ul li a{
+       color: #fff;
+    }
+    .menu-icon {
+       display: block;
+       cursor: pointer;
+     }
+
+}
+ 
+ 
+ 
+
+
+
+
+
+
+
