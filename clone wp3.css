@@ -203,263 +203,264 @@ a {
   }
   
   /* CARD 1 */
-  .card {
-    width: 240px;
-    height: 350px;
-    background-color: darkgoldenrod;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: 130px !important;
-    margin: 13px;
-  flex-shrink: 5px;
-  }
-  
-  p {
-    font-size: 15px;
-    padding: 20px;
-    color: white;
-    /* padding: 20px; */
-    /* margin: 20px; */
-    /* margin-top: 40px; */
-  }
-  
-  h3 {
-    font-size: 33px;
-    color: #fff;
-    font-weight: 600;
-    padding-left: 20px;
-    margin-top: 20px;
-  }
-  
-  img {
-    padding: 0px;
-  }
-  
-  /* view more */
-  lii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: darkgoldenrod;
-  }
-  /* card 2 */
-  .cardd {
-    width: 250px;
-    height: 430px;
-    background-color: darkgoldenrod;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -362px !important;
-    margin: 260px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-   
-  /* CARD 3 */
-  .cadd {
-    width: 240px;
-    height: 410px !important;
-    background-color: darkcyan;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -330px !important;
-    margin: 10px;
-  
-  }
-  
-  
-  /* view more */
-  liii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: darkcyan;
-  }
-  /* CARD 4 */
-  .cad {
-    width: 250px;
-    height: 470px;
-    background-color: darkblue;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -340px !important;
-    margin: 260px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-  
-  /* view more */
-  liiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: darkblue;
-  }
-  /* CARD 5 */
-  .cd {
-    width: 240px;
-    height: 530px;
-    background-color: darkgoldenrod;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -390px !important;
-    margin: 10px;
-  
-  }
-  /* CARD 6 */
-  .cr {
-    width: 250px;
-    height: 480px;
-    background-color: rgba(255, 192, 203, 0.514);
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -400px !important;
-    margin: 261px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-  
-  /* view more */
-  liiiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: rgba(255, 192, 203, 0);
-  }
-  /* CARD 7 */
-  .ca {
-    width: 240px;
-    height: 380px;
-    background-color: darkmagenta;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -340px !important;
-    margin: 10px;
-  
-  }
-  
-  /* view more */
-  liiiiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: darkmagenta;
-  }
-  /* CARD 8 */
-  .abc {
-    width: 250px;
-    height: 410px;
-    background-color: rgba(1, 1, 78, 0.37);
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -300px !important;
-    margin:260px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-  
-  
-  /* view more */
-  liiiiiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: rgba(3, 3, 51, 0.363);
-  }
-  /* CARD 9 */
-  .dcb {
-    width: 240px;
-    height: 400px;
-    background-color: rgba(29, 29, 71, 0.205);
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -370px !important;
-    margin: 10px;
-  
-  }
-  
-  /* view more */
-  liiiiiiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: rgba(29, 29, 71, 0);
-  }
-  /* CARD 10 */
-  .art {
-    width: 250px;
-    height: 470px;
-    background-color: darkgoldenrod;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -290px !important;
-    margin: 265px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-  
-  /* CARD 11 */
-  .efg {
-    width: 240px;
-    height: 390px;
-    background-color: darkgoldenrod;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -440px !important;
-    margin: 10px;
-  
-  }
-  /* CARD 12 */
-  .gff {
-    width: 250px;
-    height: 410px;
-    background-color: darkmagenta;
-    border-radius: 8px;
-    overflow: hidden;
-    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
-    margin-top: -215px !important;
-    margin: 265px;
-    /* scroll-margin-inline-end: 200px; */
-  
-  
-  
-  }
-  /* view more */
-  liiiiiiiii {
-    color: aquamarine;
-    text-decoration: none;
-    font-size: 20px;
-    margin-left: 80px;
-    background-color: darkmagenta;
-  }
+.card {
+  width: 240px;
+  height: 350px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: 130px !important;
+  margin: 400px;
+
+}
+
+p {
+  font-size: 15px;
+  padding: 20px;
+  color: white;
+  /* padding: 20px; */
+  /* margin: 20px; */
+  /* margin-top: 40px; */
+}
+
+h3 {
+  font-size: 33px;
+  color: #fff;
+  font-weight: 600;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+img {
+  padding: 0px;
+}
+
+/* view more */
+lii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 60px;
+  background-color: darkgoldenrod;
+}
+/* card 2 */
+.cardd {
+  width: 250px;
+  height: 430px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -750px !important;
+  margin: 650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+ 
+/* CARD 3 */
+.cadd {
+  width: 240px;
+  height: 410px !important;
+  background-color: darkcyan;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -720px !important;
+  margin: 400px;
+
+}
+
+
+/* view more */
+liii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: darkcyan;
+}
+/* CARD 4 */
+.cad {
+  width: 250px;
+  height: 470px;
+  background-color: darkblue;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -730px !important;
+  margin: 650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+/* view more */
+liiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: darkblue;
+}
+/* CARD 5 */
+.cd {
+  width: 240px;
+  height: 530px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -780px !important;
+  margin: 400px;
+
+}
+/* CARD 6 */
+.cr {
+  width: 250px;
+  height: 430px;
+  background-color: rgba(255, 192, 203, 0.514);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -790px !important;
+  margin: 650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+/* view more */
+liiiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: rgba(255, 192, 203, 0);
+}
+/* CARD 7 */
+.ca {
+  width: 240px;
+  height: 340px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -680px !important;
+  margin: 400px;
+
+}
+
+/* view more */
+liiiiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: darkmagenta;
+}
+/* CARD 8 */
+.abc {
+  width: 250px;
+  height: 410px;
+  background-color: rgba(1, 1, 78, 0.37);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -700px !important;
+  margin:650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+
+/* view more */
+liiiiiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: rgba(3, 3, 51, 0.363);
+}
+/* CARD 9 */
+.dcb {
+  width: 240px;
+  height: 380px;
+  background-color: rgba(29, 29, 71, 0.205);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -750px !important;
+  margin: 400px;
+
+
+}
+
+/* view more */
+liiiiiiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: rgba(29, 29, 71, 0);
+}
+/* CARD 10 */
+.art {
+  width: 250px;
+  height: 450px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -670px !important;
+  margin:650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+/* CARD 11 */
+.efg {
+  width: 240px;
+  height: 380px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -820px !important;
+  margin: 400px;
+
+}
+/* CARD 12 */
+.gff {
+  width: 250px;
+  height: 400px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -600px !important;
+  margin:650px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+/* view more */
+liiiiiiiii {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 50px;
+  background-color: darkmagenta;
+}
    
   
   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
@@ -730,14 +731,496 @@ nav {
 }
 
 
-/* @media only screen and (max-width: 61px) {
-  .btn {
-  margin-left: 300px; 
- }
-} */
+@media only screen and (max-width: 430px){
+  .card {
+    width: 240px;
+    height: 350px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: 130px !important;
+    margin: 13px;
+  
+  }
+
+  .cardd {
+    width: 250px;
+    height: 430px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -360px !important;
+    margin: 270px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  .cadd {
+    width: 240px;
+    height: 410px !important;
+    background-color: darkcyan;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -340px !important;
+    margin: 13px;
+  
+  }
+  .cad {
+  width: 250px;
+  height: 470px;
+  background-color: darkblue;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -340px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.cd {
+  width: 240px;
+  height: 530px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -390px !important;
+  margin: 13px;
+
+}
+.cr {
+  width: 250px;
+  height: 430px;
+  background-color: rgba(255, 192, 203, 0.514);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -400px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+
+
+
+
+.ca {
+  width: 240px;
+  height: 340px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -290px !important;
+  margin: 13px;
+
+}
+
+.abc {
+  width: 250px;
+  height: 410px;
+  background-color: rgba(1, 1, 78, 0.37);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -320px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.dcb {
+  width: 240px;
+  height: 380px;
+  background-color: rgba(29, 29, 71, 0.205);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -360px !important;
+  margin: 13px;
+
+
+}
+.art {
+  width: 250px;
+  height: 450px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  
+  margin-top: -290px !important;
+  margin:270px;
  
 
 
+
+}
+
+.efg {
+  width: 240px;
+  height: 380px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -420px !important;
+  margin: 13px;
+
+}
+.gff {
+  width: 250px;
+  height: 400px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -230px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+}
+
+
+
+@media only screen and (max-width: 926px){
+  .card {
+    width: 240px;
+    height: 350px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: 130px !important;
+    margin: 13px;
+  
+  }
+
+  .cardd {
+    width: 250px;
+    height: 430px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -360px !important;
+    margin: 270px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  .cadd {
+    width: 240px;
+    height: 410px !important;
+    background-color: darkcyan;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -340px !important;
+    margin: 13px;
+  
+  }
+  .cad {
+  width: 250px;
+  height: 470px;
+  background-color: darkblue;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -340px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.cd {
+  width: 240px;
+  height: 530px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -390px !important;
+  margin: 13px;
+
+}
+.cr {
+  width: 250px;
+  height: 430px;
+  background-color: rgba(255, 192, 203, 0.514);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -400px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+
+
+
+
+.ca {
+  width: 240px;
+  height: 340px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -290px !important;
+  margin: 13px;
+
+}
+
+.abc {
+  width: 250px;
+  height: 410px;
+  background-color: rgba(1, 1, 78, 0.37);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -320px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.dcb {
+  width: 240px;
+  height: 380px;
+  background-color: rgba(29, 29, 71, 0.205);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -360px !important;
+  margin: 13px;
+
+
+}
+.art {
+  width: 250px;
+  height: 450px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  
+  margin-top: -290px !important;
+  margin:270px;
+ 
+
+
+
+}
+
+.efg {
+  width: 240px;
+  height: 380px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -420px !important;
+  margin: 13px;
+
+}
+.gff {
+  width: 250px;
+  height: 400px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -230px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+}
+
+@media only screen and (max-width: 1076px){
+  .card {
+    width: 240px;
+    height: 350px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: 130px !important;
+    margin: 13px;
+  
+  }
+
+  .cardd {
+    width: 250px;
+    height: 430px;
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -360px !important;
+    margin: 270px;
+    /* scroll-margin-inline-end: 200px; */
+  
+  
+  
+  }
+  .cadd {
+    width: 240px;
+    height: 410px !important;
+    background-color: darkcyan;
+    border-radius: 8px;
+    overflow: hidden;
+    /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+    margin-top: -340px !important;
+    margin: 13px;
+  
+  }
+  .cad {
+  width: 250px;
+  height: 470px;
+  background-color: darkblue;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -340px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.cd {
+  width: 240px;
+  height: 530px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -390px !important;
+  margin: 13px;
+
+}
+.cr {
+  width: 250px;
+  height: 430px;
+  background-color: rgba(255, 192, 203, 0.514);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -400px !important;
+  margin: 270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+
+
+
+
+.ca {
+  width: 240px;
+  height: 340px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -290px !important;
+  margin: 13px;
+
+}
+
+.abc {
+  width: 250px;
+  height: 410px;
+  background-color: rgba(1, 1, 78, 0.37);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -320px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+.dcb {
+  width: 240px;
+  height: 380px;
+  background-color: rgba(29, 29, 71, 0.205);
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -360px !important;
+  margin: 13px;
+
+
+}
+.art {
+  width: 250px;
+  height: 450px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  
+  margin-top: -290px !important;
+  margin:270px;
+ 
+
+
+
+}
+
+.efg {
+  width: 240px;
+  height: 380px;
+  background-color: darkgoldenrod;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -420px !important;
+  margin: 13px;
+
+}
+.gff {
+  width: 250px;
+  height: 400px;
+  background-color: darkmagenta;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px  2px 4px  rgba(0,0 ,0 ,0.2 )  ; */
+  margin-top: -230px !important;
+  margin:270px;
+  /* scroll-margin-inline-end: 200px; */
+
+
+
+}
+
+}
 
 
 
